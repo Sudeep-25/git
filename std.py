@@ -7,7 +7,7 @@ class student:
     def eat(self):
         print("stud in eating")
     def study(self):
-        print("i am sudeep")
+        print("study is studying")
 
 s1=student()
 
