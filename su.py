@@ -10,6 +10,7 @@ class Fan:
     def rotate(self):
         print("fan is rotating")
 
+
 f1 = Fan()
 
 print(f1.brand)
