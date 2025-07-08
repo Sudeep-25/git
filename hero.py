@@ -9,6 +9,7 @@ class Hero:
         print("Hero is acting")
     def dance(self):
         print("Hero is dancing")
+            
 h1 = Hero()
 
 print(h1.name)
@@ -16,15 +17,18 @@ print(h1.age)
 print(h1.height)
 print(h1.mob)
 
+#change
 h1.mob = 77667
-
 h1.age = 48
 
+#add
 h1.noOfMovies= 55
 h1.noOfHits= 25
 
 h2=h1
+
 h3=h2
+
 
 print(h3.name)
 print(h2.age)

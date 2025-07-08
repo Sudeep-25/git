@@ -1,5 +1,4 @@
-a=10
-b=20
+
 
 print("Enter a value 1")
 
